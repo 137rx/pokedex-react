@@ -5,8 +5,8 @@ import CaughtPokemon from "./CaughtPokemon";
 
 function App() {
   
-  let abilities = ["Anticipation", "Adaptability", "Run-Away"];
   const date = new Date().toLocaleDateString()
+  let abilities = ["Anticipation", "Adaptability", "Run-Away"];
 
   return (
     <div>
